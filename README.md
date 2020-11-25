@@ -1,2 +1,2 @@
 # API-Criptomoedas
- API de criptomoedas
+ API de Criptomoedas.
